@@ -18,43 +18,39 @@
 
 ## My Skill Set  
 
-<table><tr><td valign="top" width="35%">
+<table><tr><td valign="top" width="33%">
 
   <div align="center">
     <h3>Frontend</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="js" />
-    <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="ts" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" />
   </div>
 
-  </td><td valign="top" width="35%">
+  </td><td valign="top" width="34%">
 
   <div align="center">
     <h3>Backend</h3>
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="ts" />
-    <br/>
     <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python" />
     <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust" />
     <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="cplusplus" />
-    <br/>
     <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql" />
     <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express" />
   </div>
 
-</td><td valign="top" width="35%">
+</td><td valign="top" width="33%">
 
   <div align="center">
     <h3>DevOps</h3>
     <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux" />
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
     <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />
-    <br/>
     <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github" />
     <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm" />
     <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma" />
