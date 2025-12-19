@@ -18,7 +18,10 @@
 
 <h2 align="center">My Skill Set</h2>
 
-<table width="1000">
+<table width="100%">
+    <tr>
+    <td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="100%" height="1px"></td>
+  </tr>
   <tr>
     <td valign="top" width="33%">
       <div align="center">
