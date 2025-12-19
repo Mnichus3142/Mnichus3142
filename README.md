@@ -16,9 +16,11 @@
 
 <br />
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+## My Skill Set  
 
-  <div style="flex: 1; text-align: center;">
+<table><tr><td valign="top" width="35%">
+
+  <div align="center">
     <h3>Frontend</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5" />
@@ -29,7 +31,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" />
   </div>
 
-  <div style="flex: 1; text-align: center;">
+  </td><td valign="top" width="35%">
+
+  <div align="center">
     <h3>Backend</h3>
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="js" />
@@ -43,7 +47,9 @@
     <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express" />
   </div>
 
-  <div style="flex: 1; text-align: center;">
+</td><td valign="top" width="35%">
+
+  <div align="center">
     <h3>DevOps</h3>
     <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux" />
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
@@ -54,7 +60,7 @@
     <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma" />
   </div>
 
-</div>
+</td></table>
 
 <br />
 
