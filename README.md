@@ -18,7 +18,7 @@
 
 <h2 align="center">My Skill Set</h2>
 
-<table width="100%">
+<table width="1000">
   <tr>
     <td valign="top" width="33%">
       <div align="center">
