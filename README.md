@@ -19,8 +19,8 @@
 <h2 align="center">My Skill Set</h2>
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-    <div style="flex: 1;">
+  <div align="center">
+    <div style="display: inline-block; vertical-align: top; width: 30%; min-width: 200px;">
       <h3>Frontend</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5" />
@@ -29,7 +29,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" />
     </div>
-    <div style="flex: 1;">
+    <div style="display: inline-block; vertical-align: top; width: 30%; min-width: 200px;">
       <h3>Backend</h3>
       <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="js" />
@@ -40,7 +40,7 @@
       <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql" />
       <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express" />
     </div>
-    <div style="flex: 1;">
+    <div style="display: inline-block; vertical-align: top; width: 30%; min-width: 200px;">
       <h3>DevOps</h3>
       <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux" />
       <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
@@ -49,7 +49,6 @@
       <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm" />
       <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma" />
     </div>
-
   </div>
 </div>
 
