@@ -27,11 +27,15 @@ Curiosity didn't kill the cat; it just made it a better dev. I have a rule: if a
 
 <br />
 
+
+<h2 align="center">My Skill Set</h2>
+
+
 <table width="100%">
 
 <tr >
 
-<td colspan="3" align="center"><h3>My Skill Set</h3></td>
+<td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="1000" height="1px"></td>
 
 </tr>
 
