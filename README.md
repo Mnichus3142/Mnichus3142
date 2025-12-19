@@ -20,7 +20,7 @@
 
 <table width="100%">
     <tr>
-    <td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="100%" height="1px"></td>
+    <td colspan="3"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="1000" height="1px"></td>
   </tr>
   <tr>
     <td valign="top" width="33%">
