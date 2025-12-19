@@ -18,9 +18,12 @@
 
 <h2 align="center">My Skill Set</h2>
 
-<table width="1000px">
-  <tr>
-    <td valign="top" width="33%">
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td colspan="3" style="border: none;"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/transparent.png" width="1000" height="1px"></td>
+  </tr>
+  <tr style="border: none;">
+    <td valign="top" width="33%" style="border: none;">
       <div align="center">
         <h3>Frontend</h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte" />
@@ -31,7 +34,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" />
       </div>
     </td>
-    <td valign="top" width="34%">
+    <td valign="top" width="34%" style="border: none;">
       <div align="center">
         <h3>Backend</h3>
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs" />
@@ -44,7 +47,7 @@
         <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express" />
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <div align="center">
         <h3>DevOps</h3>
         <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux" />
